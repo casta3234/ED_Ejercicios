@@ -5,14 +5,13 @@
  */
 package ED_ESimples;
 
+
 /**
  *
  * @author Sebastian
  */
 public class Node {
 
-    
-    
     private Object o;
     private Node next = null;
 

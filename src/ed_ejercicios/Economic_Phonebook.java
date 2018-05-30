@@ -43,7 +43,7 @@ public class Economic_Phonebook {
     
     public static void main(String[] args) {
         while (true){    
-            List l = new List();
+            List l = new List();                        
             no_printed_numbers(l);
         }
     }
